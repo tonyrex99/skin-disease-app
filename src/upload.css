@@ -1,0 +1,7 @@
+.ant-upload-list {
+  display: flex !important;
+  flex-direction: row !important;
+  gap: 12px !important;
+  flex-wrap: wrap;
+  justify-content: center;
+}
